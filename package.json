@@ -1,6 +1,6 @@
 {
   "name": "volumes-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Volumes Cli Tool",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ccali14/Volumes-CLI.git"
   },
   "bin": {
-   "volumes-cli": "./index.js"
+    "volumes-cli": "./index.js"
   },
   "keywords": [
     "Control",
