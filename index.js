@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var volumes = require('volumes');
 var program = require('commander');
 var updateNotifier = require('update-notifier');
