@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ccali14/Volumes-CLI.git"
   },
+  "bin": {
+   "volumes-cli": "./index.js"
+  },
   "keywords": [
     "Control",
     "ubuntu",
