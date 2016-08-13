@@ -1,0 +1,24 @@
+{
+  "name": "volumes-cli",
+  "version": "1.0.0",
+  "description": "Volumes Cli Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccali14/Volumes-CLI.git"
+  },
+  "keywords": [
+    "Control",
+    "ubuntu",
+    "volume"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccali14/Volumes-CLI/issues"
+  },
+  "homepage": "https://github.com/ccali14/Volumes-CLI#readme"
+}
