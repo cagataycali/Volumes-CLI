@@ -9,3 +9,4 @@ sudo npm i volumes-cli -g
 ```
 volumes-cli -h
 ```
+![GIF](volumes.gif)
