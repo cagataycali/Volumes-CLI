@@ -1,6 +1,9 @@
 var volumes = require('volumes');
 var program = require('commander');
+var updateNotifier = require('update-notifier');
+var pkg = require('./package.json');
 
+updateNotifier({pkg}).notify();
 program
 .option('-s, --set <set>', 'Set volume.')
 .option('-i, --increase <increase>', 'Increase volume.')

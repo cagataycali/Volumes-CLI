@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ccali14/Volumes-CLI#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "volumes": "^1.0.1"
+    "update-notifier": "^1.0.2",
+    "volumes": "^1.0.2"
   }
 }
